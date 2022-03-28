@@ -1,0 +1,20 @@
+.sc-btn{
+  border-radius: 0;
+}
+.sc-btn-danger-plus{
+  background-color: rgb(112, 27, 27);
+  border-color: rgb(112, 27, 27);
+}
+.sc-nav-link{
+  color: green;
+}
+.sc-nav-link:hover{
+  color: red;
+}
+.sc-custom-nav{
+  /* !important da usare SOLO se dobbiamo sovrascrivere un altro !important */
+  background-color: cadetblue !important;
+}
+.sc-custom-nav li{
+  padding-right: 60px;
+}
